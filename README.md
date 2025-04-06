@@ -12,4 +12,4 @@ Um blog simples desenvolvido com Angular como parte de um bootcamp.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Guilherme-Espinosa/angular-blog-DrManhattan.git
+   https://guilherme-espinosa.github.io/angular-blog-DrManhattan
